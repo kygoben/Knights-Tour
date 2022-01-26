@@ -10,7 +10,6 @@ int main(int argc, char const *argv[])
 {
     
     int board[25][25]; 
-//test
 
 
     
