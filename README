@@ -1,0 +1,6 @@
+My program takes a 5x5 chess board and finds all of the possible 
+combonations of moves for a knight to cover every square exactly once.
+It then prints to the terminal, a list of numbers corresponding to the spaces
+in the order they are visited. The chess board squares are numbered from
+left to right and then top to bottom starting with 1 through 25. For this 
+board, there are 1728 solutions.
