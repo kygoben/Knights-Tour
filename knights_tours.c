@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define N 5
+#define N 6
 
 int locationCheck(int x, int y, int sol[N][N])
 {
@@ -20,7 +20,7 @@ void print(int sol[N][N])
                     temp += x * N;
                     temp += y;
                     printf("%2d", temp);
-                    if (printnum++ < 25)
+                    if (printnum++ < N*N)
                         printf(",");
                 }
         }
