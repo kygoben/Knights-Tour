@@ -1,4 +1,4 @@
-My program takes a 5x5 chess board and finds all of the possible 
+This program takes a 5x5 chess board and finds all of the possible 
 combonations of moves for a knight to cover every square exactly once.
 It then prints to the terminal, a list of numbers corresponding to the spaces
 in the order they are visited. The chess board squares are numbered from
